@@ -1,10 +1,10 @@
 // import axios from "axios";
-import React, { useState, useEffect } from "react";
+// import React, { useState, useEffect } from "react";
 import Divider from "@mui/material/Divider";
-import TopPosts from "../TopPosts/TopPosts";
+// import TopPosts from "../TopPosts/TopPosts";
 import "../ArticlesVertical/ArticlesVertical.css";
 import "../TopPosts/TopPosts.css";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const ArticlesVertical2 = ({
   // articles,
@@ -18,18 +18,18 @@ const ArticlesVertical2 = ({
   // articleLink,
 }) => {
   // const [articlesData, setArticlesData] = useState([]);
-  const [adsData, setAdsData] = useState([]);
+  // const [adsData, setAdsData] = useState([]);
 
-  const [visible, setVisible] = useState(4);
+  // const [visible, setVisible] = useState(4);
 
   // useEffect(() => {
   //   // fetchData();
   //   setArticlesData(articles);
   // }, [articles]);
 
-  useEffect(() => {
-    setAdsData(ads);
-  }, [ads]);
+  // useEffect(() => {
+  //   setAdsData(ads);
+  // }, [ads]);
 
   // const showMoreArticles = () => {
   //   setVisible((previousValue) => previousValue + 4);
