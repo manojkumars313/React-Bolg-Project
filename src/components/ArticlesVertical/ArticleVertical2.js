@@ -11,10 +11,10 @@ const ArticlesVertical2 = ({
   photoUrl,
   title,
   description,
-  ads,
+  // ads,
   category,
   date,
-  photo,
+  // photo,
   // articleLink,
 }) => {
   // const [articlesData, setArticlesData] = useState([]);
